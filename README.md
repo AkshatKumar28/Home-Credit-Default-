@@ -154,17 +154,7 @@ Overall Conclusion:
 4.	Precision: While Logistic Regression and AdaBoost maintain moderate precision (around 0.45-0.5), they struggle with recall, resulting in an incomplete performance.
 5.	ROC AUC: The ROC AUC scores for all models indicate only a moderate ability to distinguish between classes, with values ranging from 0.64 to 0.73, suggesting none of the models are particularly strong classifiers for this problem.
 
-6.References :
-https://www.kaggle.com/competitions/home-credit-default-risk
-https://github.com/rakshithvasudev/Home-Credit-Default-Risk
-https://github.com/anshikaahuja/Home-Credit-Default-Risk
-https://github.com/rishabhrao1997/Home-Credit-Default-Risk
-https://github.com/kozodoi/Kaggle_Home_Credit
-https://github.com/harshitlikhar/Home-Credit-Default-Risk
-https://github.com/yakupkaplan/Home-Credit-Default-Risk
-https://github.com/hungchun-lin/Home-credit-default-risk
-https://github.com/jayborkar/Home-Credit
-https://github.com/richardzefan/Home-Credit-Default-Risk
+
 
 
 
